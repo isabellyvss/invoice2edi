@@ -1,0 +1,18 @@
+<nfe>
+  <emit>
+    <CNPJ>12345678000195</CNPJ>
+    <xNome>Empresa Exemplo LTDA</xNome>
+  </emit>
+  <dest>
+    <CNPJ>98765432000188</CNPJ>
+    <xNome>Cliente Final S/A</xNome>
+  </dest>
+  <det>
+    <prod>
+      <cProd>001</cProd>
+      <xProd>Teclado Mecânico</xProd>
+      <qCom>2</qCom>
+      <vUnCom>150.00</vUnCom>
+    </prod>
+  </det>
+</nfe>
